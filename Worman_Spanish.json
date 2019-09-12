@@ -115,7 +115,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Basic (and reversed card)",
+            "name": "Basic (and reversed card)-5150c",
             "req": [
                 [
                     0,
@@ -169,7 +169,9 @@
             "flags": 0,
             "guid": "B!>U]MWPfI",
             "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
-            "tags": []
+            "tags": [
+                "b01c01"
+            ]
         },
         {
             "__type__": "Note",
@@ -181,7 +183,9 @@
             "flags": 0,
             "guid": "g.g%8*z6]L",
             "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
-            "tags": []
+            "tags": [
+                "b01c01"
+            ]
         },
         {
             "__type__": "Note",
@@ -193,7 +197,9 @@
             "flags": 0,
             "guid": "cro3T,:`J{",
             "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
-            "tags": []
+            "tags": [
+                "b01c01"
+            ]
         },
         {
             "__type__": "Note",
@@ -205,7 +211,9 @@
             "flags": 0,
             "guid": "j=vpfz)LKN",
             "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
-            "tags": []
+            "tags": [
+                "b01c01"
+            ]
         },
         {
             "__type__": "Note",
@@ -217,7 +225,9 @@
             "flags": 0,
             "guid": "f0P$1>&JF/",
             "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
-            "tags": []
+            "tags": [
+                "b01c01"
+            ]
         },
         {
             "__type__": "Note",
@@ -229,7 +239,9 @@
             "flags": 0,
             "guid": "KAxGatrjw6",
             "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
-            "tags": []
+            "tags": [
+                "b01c01"
+            ]
         },
         {
             "__type__": "Note",
@@ -241,7 +253,9 @@
             "flags": 0,
             "guid": "z3&Mzw?~*a",
             "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
-            "tags": []
+            "tags": [
+                "b01c01"
+            ]
         },
         {
             "__type__": "Note",
@@ -253,7 +267,9 @@
             "flags": 0,
             "guid": "i}nm;Ml1+E",
             "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
-            "tags": []
+            "tags": [
+                "b01c01"
+            ]
         },
         {
             "__type__": "Note",
@@ -265,7 +281,9 @@
             "flags": 0,
             "guid": "E>*Wyre7K-",
             "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
-            "tags": []
+            "tags": [
+                "b01c01"
+            ]
         },
         {
             "__type__": "Note",
@@ -277,7 +295,9 @@
             "flags": 0,
             "guid": "bKh{Svx[Nm",
             "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
-            "tags": []
+            "tags": [
+                "b01c01"
+            ]
         },
         {
             "__type__": "Note",
@@ -289,7 +309,9 @@
             "flags": 0,
             "guid": "LT+6;?23Sk",
             "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
-            "tags": []
+            "tags": [
+                "b01c01"
+            ]
         },
         {
             "__type__": "Note",
@@ -301,7 +323,9 @@
             "flags": 0,
             "guid": "rnWrbL!H+^",
             "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
-            "tags": []
+            "tags": [
+                "b01c01"
+            ]
         },
         {
             "__type__": "Note",
@@ -313,7 +337,9 @@
             "flags": 0,
             "guid": "p5,%IvD{[Q",
             "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
-            "tags": []
+            "tags": [
+                "b01c01"
+            ]
         },
         {
             "__type__": "Note",
@@ -325,7 +351,9 @@
             "flags": 0,
             "guid": "0`(:@dquS",
             "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
-            "tags": []
+            "tags": [
+                "b01c01"
+            ]
         },
         {
             "__type__": "Note",
@@ -337,7 +365,9 @@
             "flags": 0,
             "guid": "AM2/x&B;TL",
             "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
-            "tags": []
+            "tags": [
+                "b01c01"
+            ]
         },
         {
             "__type__": "Note",
@@ -349,7 +379,9 @@
             "flags": 0,
             "guid": "HMQ%A|2>^^",
             "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
-            "tags": []
+            "tags": [
+                "b01c01"
+            ]
         },
         {
             "__type__": "Note",
@@ -361,7 +393,9 @@
             "flags": 0,
             "guid": "cYR+XO+=#v",
             "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
-            "tags": []
+            "tags": [
+                "b01c01"
+            ]
         },
         {
             "__type__": "Note",
@@ -373,7 +407,9 @@
             "flags": 0,
             "guid": "Q|]ytJ-`MM",
             "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
-            "tags": []
+            "tags": [
+                "b01c01"
+            ]
         },
         {
             "__type__": "Note",
@@ -385,7 +421,9 @@
             "flags": 0,
             "guid": "uEsuaU9GI!",
             "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
-            "tags": []
+            "tags": [
+                "b01c01"
+            ]
         },
         {
             "__type__": "Note",
@@ -397,7 +435,9 @@
             "flags": 0,
             "guid": "w9}|Fcfk:W",
             "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
-            "tags": []
+            "tags": [
+                "b01c01"
+            ]
         },
         {
             "__type__": "Note",
@@ -409,7 +449,9 @@
             "flags": 0,
             "guid": "N`-Yg4>tjS",
             "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
-            "tags": []
+            "tags": [
+                "b01c01"
+            ]
         },
         {
             "__type__": "Note",
@@ -421,7 +463,9 @@
             "flags": 0,
             "guid": "e]_Y1o|kB.",
             "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
-            "tags": []
+            "tags": [
+                "b01c01"
+            ]
         },
         {
             "__type__": "Note",
@@ -433,7 +477,9 @@
             "flags": 0,
             "guid": "o;IOwZv:pJ",
             "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
-            "tags": []
+            "tags": [
+                "b01c01"
+            ]
         },
         {
             "__type__": "Note",
@@ -445,7 +491,9 @@
             "flags": 0,
             "guid": "tO7`{43!b4",
             "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
-            "tags": []
+            "tags": [
+                "b01c01"
+            ]
         },
         {
             "__type__": "Note",
@@ -457,7 +505,9 @@
             "flags": 0,
             "guid": "x%$Y)&SLuM",
             "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
-            "tags": []
+            "tags": [
+                "b01c01"
+            ]
         },
         {
             "__type__": "Note",
@@ -469,7 +519,9 @@
             "flags": 0,
             "guid": "ANF#0hj5WM",
             "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
-            "tags": []
+            "tags": [
+                "b01c01"
+            ]
         },
         {
             "__type__": "Note",
@@ -481,7 +533,9 @@
             "flags": 0,
             "guid": "d>;E%=9U?",
             "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
-            "tags": []
+            "tags": [
+                "b01c01"
+            ]
         },
         {
             "__type__": "Note",
@@ -493,7 +547,9 @@
             "flags": 0,
             "guid": "L{=Z/zA2|U",
             "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
-            "tags": []
+            "tags": [
+                "b01c01"
+            ]
         },
         {
             "__type__": "Note",
@@ -505,7 +561,9 @@
             "flags": 0,
             "guid": "dT,o!CDP/-",
             "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
-            "tags": []
+            "tags": [
+                "b01c01"
+            ]
         },
         {
             "__type__": "Note",
@@ -517,7 +575,9 @@
             "flags": 0,
             "guid": "f`<h|+hipf",
             "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
-            "tags": []
+            "tags": [
+                "b01c01"
+            ]
         },
         {
             "__type__": "Note",
@@ -529,7 +589,9 @@
             "flags": 0,
             "guid": "vmbI@mhMSp",
             "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
-            "tags": []
+            "tags": [
+                "b01c01"
+            ]
         }
     ]
 }
