@@ -1,0 +1,535 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "306ee57e-d55f-11e9-848f-8c859041a86d",
+    "deck_config_uuid": "30739790-d55f-11e9-8b34-8c859041a86d",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "30739790-d55f-11e9-8b34-8c859041a86d",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 0,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [
+        "rec1567687748.mp3",
+        "rec1567687776.mp3",
+        "rec1567687795.mp3",
+        "rec1567687822.mp3",
+        "rec1567687848.mp3",
+        "rec1567687896.mp3",
+        "rec1567687927.mp3",
+        "rec1567687966.mp3",
+        "rec1567687991.mp3",
+        "rec1567688015.mp3",
+        "rec1567688038.mp3",
+        "rec1567688091.mp3",
+        "rec1567688151.mp3",
+        "rec1567688166.mp3",
+        "rec1567688219.mp3",
+        "rec1567688246.mp3",
+        "rec1567688313.mp3",
+        "rec1567688347.mp3",
+        "rec1567688398.mp3",
+        "rec1567688429.mp3",
+        "rec1567688445.mp3",
+        "rec1568126036.mp3",
+        "rec1568126056.mp3",
+        "rec1568126079.mp3",
+        "rec1568126090.mp3",
+        "rec1568126130.mp3",
+        "rec1568126147.mp3",
+        "rec1568126159.mp3",
+        "rec1568126169.mp3",
+        "rec1568126194.mp3",
+        "rec1568126208.mp3"
+    ],
+    "name": "Worman Spanish",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic (and reversed card)",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "all",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Back}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "estoy[sound:rec1567687748.mp3]",
+                "I am (temporarily)"
+            ],
+            "flags": 0,
+            "guid": "B!>U]MWPfI",
+            "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "estas[sound:rec1567687776.mp3]",
+                "you are (temporarily)"
+            ],
+            "flags": 0,
+            "guid": "g.g%8*z6]L",
+            "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "esta[sound:rec1567687795.mp3]",
+                "he, she, or it is (temporarily)"
+            ],
+            "flags": 0,
+            "guid": "cro3T,:`J{",
+            "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "estamos[sound:rec1567687822.mp3]",
+                "we are (temporarily)"
+            ],
+            "flags": 0,
+            "guid": "j=vpfz)LKN",
+            "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "estais[sound:rec1567687848.mp3]",
+                "y'all are (temporarily)"
+            ],
+            "flags": 0,
+            "guid": "f0P$1>&JF/",
+            "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "estan[sound:rec1567687896.mp3]",
+                "they are (or you [formal, plural] are)"
+            ],
+            "flags": 0,
+            "guid": "KAxGatrjw6",
+            "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Aquí[sound:rec1567687927.mp3]",
+                "here"
+            ],
+            "flags": 0,
+            "guid": "z3&Mzw?~*a",
+            "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "hombre[sound:rec1567687966.mp3]",
+                "man [clue: the one which starts with <i>h</i>]"
+            ],
+            "flags": 0,
+            "guid": "i}nm;Ml1+E",
+            "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "silla[sound:rec1567687991.mp3]",
+                "chair"
+            ],
+            "flags": 0,
+            "guid": "E>*Wyre7K-",
+            "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "el caballero[sound:rec1567688015.mp3]",
+                "the man [clue: the one which begins with <i>c</i>]"
+            ],
+            "flags": 0,
+            "guid": "bKh{Svx[Nm",
+            "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "el libro[sound:rec1567688038.mp3]",
+                "the book"
+            ],
+            "flags": 0,
+            "guid": "LT+6;?23Sk",
+            "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "señor[sound:rec1567688091.mp3]",
+                "mister"
+            ],
+            "flags": 0,
+            "guid": "rnWrbL!H+^",
+            "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "sobre[sound:rec1567688151.mp3]",
+                "over, on top of"
+            ],
+            "flags": 0,
+            "guid": "p5,%IvD{[Q",
+            "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "la mesa[sound:rec1567688166.mp3]",
+                "the table"
+            ],
+            "flags": 0,
+            "guid": "0`(:@dquS",
+            "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "otro, otra[sound:rec1567688219.mp3]",
+                "other"
+            ],
+            "flags": 0,
+            "guid": "AM2/x&B;TL",
+            "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "bajo OR debajo[sound:rec1567688246.mp3]",
+                "under"
+            ],
+            "flags": 0,
+            "guid": "HMQ%A|2>^^",
+            "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "primer[sound:rec1567688313.mp3]",
+                "first"
+            ],
+            "flags": 0,
+            "guid": "cYR+XO+=#v",
+            "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "segundo[sound:rec1567688347.mp3]",
+                "second"
+            ],
+            "flags": 0,
+            "guid": "Q|]ytJ-`MM",
+            "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "dos[sound:rec1567688398.mp3]",
+                "two"
+            ],
+            "flags": 0,
+            "guid": "uEsuaU9GI!",
+            "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ó[sound:rec1567688429.mp3]",
+                "or"
+            ],
+            "flags": 0,
+            "guid": "w9}|Fcfk:W",
+            "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "para[sound:rec1567688445.mp3]",
+                "for"
+            ],
+            "flags": 0,
+            "guid": "N`-Yg4>tjS",
+            "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "yo[sound:rec1568126036.mp3]",
+                "I"
+            ],
+            "flags": 0,
+            "guid": "e]_Y1o|kB.",
+            "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "tú[sound:rec1568126056.mp3]",
+                "you"
+            ],
+            "flags": 0,
+            "guid": "o;IOwZv:pJ",
+            "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "él[sound:rec1568126079.mp3]",
+                "he"
+            ],
+            "flags": 0,
+            "guid": "tO7`{43!b4",
+            "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ella[sound:rec1568126090.mp3]",
+                "she"
+            ],
+            "flags": 0,
+            "guid": "x%$Y)&SLuM",
+            "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "nosotros[sound:rec1568126130.mp3]",
+                "we"
+            ],
+            "flags": 0,
+            "guid": "ANF#0hj5WM",
+            "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "vosotros[sound:rec1568126147.mp3]",
+                "y'all"
+            ],
+            "flags": 0,
+            "guid": "d>;E%=9U?",
+            "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "usted[sound:rec1568126159.mp3]",
+                "you (to a grown up)"
+            ],
+            "flags": 0,
+            "guid": "L{=Z/zA2|U",
+            "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ustedes[sound:rec1568126169.mp3]",
+                "y'all (to a bunch of grown ups)"
+            ],
+            "flags": 0,
+            "guid": "dT,o!CDP/-",
+            "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ellos[sound:rec1568126194.mp3]",
+                "they"
+            ],
+            "flags": 0,
+            "guid": "f`<h|+hipf",
+            "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ellas[sound:rec1568126208.mp3]",
+                "they (group of girls)"
+            ],
+            "flags": 0,
+            "guid": "vmbI@mhMSp",
+            "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
+            "tags": []
+        }
+    ]
+}
