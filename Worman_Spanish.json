@@ -52,7 +52,7 @@
     ],
     "desc": "",
     "dyn": 0,
-    "extendNew": 10,
+    "extendNew": 30,
     "extendRev": 50,
     "media_files": [
         "rec1567687748.mp3",
@@ -85,7 +85,127 @@
         "rec1568126159.mp3",
         "rec1568126169.mp3",
         "rec1568126194.mp3",
-        "rec1568126208.mp3"
+        "rec1568126208.mp3",
+        "rec1573779458.mp3",
+        "rec1573779478.mp3",
+        "rec1573779561.mp3",
+        "rec1573779600.mp3",
+        "rec1573779611.mp3",
+        "rec1573779662.mp3",
+        "rec1573779671.mp3",
+        "rec1573780847.mp3",
+        "rec1573780863.mp3",
+        "rec1573781114.mp3",
+        "rec1573781134.mp3",
+        "rec1573781156.mp3",
+        "rec1573783276.mp3",
+        "rec1573783286.mp3",
+        "rec1573783299.mp3",
+        "rec1573783307.mp3",
+        "rec1573783319.mp3",
+        "rec1573783330.mp3",
+        "rec1573783337.mp3",
+        "rec1573783347.mp3",
+        "rec1573783358.mp3",
+        "rec1573783368.mp3",
+        "rec1573783374.mp3",
+        "rec1573783783.mp3",
+        "rec1573786704.mp3",
+        "rec1573786727.mp3",
+        "rec1573786740.mp3",
+        "rec1573786821.mp3",
+        "rec1573786847.mp3",
+        "rec1573786867.mp3",
+        "rec1573786897.mp3",
+        "rec1573786915.mp3",
+        "rec1573786924.mp3",
+        "rec1573786936.mp3",
+        "rec1573786949.mp3",
+        "rec1573786985.mp3",
+        "rec1573786997.mp3",
+        "rec1573787015.mp3",
+        "rec1573787024.mp3",
+        "rec1573787046.mp3",
+        "rec1573787054.mp3",
+        "rec1573787064.mp3",
+        "rec1573787078.mp3",
+        "rec1573787088.mp3",
+        "rec1573787097.mp3",
+        "rec1573787105.mp3",
+        "rec1573787187.mp3",
+        "rec1573787195.mp3",
+        "rec1573787203.mp3",
+        "rec1573787218.mp3",
+        "rec1573787233.mp3",
+        "rec1573787248.mp3",
+        "rec1573787263.mp3",
+        "rec1573787280.mp3",
+        "rec1573787291.mp3",
+        "rec1573787300.mp3",
+        "rec1573787308.mp3",
+        "rec1573787329.mp3",
+        "rec1573787339.mp3",
+        "rec1573787350.mp3",
+        "rec1573787384.mp3",
+        "rec1573787393.mp3",
+        "rec1573787406.mp3",
+        "rec1573787417.mp3",
+        "rec1573787430.mp3",
+        "rec1573787444.mp3",
+        "rec1573787450.mp3",
+        "rec1573787459.mp3",
+        "rec1573787472.mp3",
+        "rec1573787489.mp3",
+        "rec1573787507.mp3",
+        "rec1573787514.mp3",
+        "rec1573787521.mp3",
+        "rec1573787529.mp3",
+        "rec1573788009.mp3",
+        "rec1573788016.mp3",
+        "rec1573788024.mp3",
+        "rec1573788048.mp3",
+        "rec1573788059.mp3",
+        "rec1573788067.mp3",
+        "rec1573788076.mp3",
+        "rec1573788082.mp3",
+        "rec1573788102.mp3",
+        "rec1573788120.mp3",
+        "rec1573788128.mp3",
+        "rec1573788142.mp3",
+        "rec1573788164.mp3",
+        "rec1573788172.mp3",
+        "rec1573788188.mp3",
+        "rec1573788201.mp3",
+        "rec1573788215.mp3",
+        "rec1573788223.mp3",
+        "rec1573788234.mp3",
+        "rec1573788244.mp3",
+        "rec1573788253.mp3",
+        "rec1573788264.mp3",
+        "rec1573788271.mp3",
+        "rec1573788281.mp3",
+        "rec1573788290.mp3",
+        "rec1573788299.mp3",
+        "rec1573788312.mp3",
+        "rec1573788326.mp3",
+        "rec1573788338.mp3",
+        "rec1573788370.mp3",
+        "rec1573788384.mp3",
+        "rec1573788393.mp3",
+        "rec1573788405.mp3",
+        "rec1573788411.mp3",
+        "rec1573788430.mp3",
+        "rec1573788444.mp3",
+        "rec1573788459.mp3",
+        "rec1573788465.mp3",
+        "rec1573788498.mp3",
+        "rec1573788508.mp3",
+        "rec1573788515.mp3",
+        "rec1573788524.mp3",
+        "rec1573788536.mp3",
+        "rec1573788545.mp3",
+        "rec1573788553.mp3",
+        "rec1573788560.mp3"
     ],
     "name": "Worman Spanish",
     "note_models": [
@@ -116,6 +236,74 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "name": "Basic (and reversed card)-5150c",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "all",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Back}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic (and reversed card)",
             "req": [
                 [
                     0,
@@ -591,6 +779,1686 @@
             "note_model_uuid": "3073b59a-d55f-11e9-a89b-8c859041a86d",
             "tags": [
                 "b01c01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "soy[sound:rec1573779458.mp3]",
+                "I am, permanently"
+            ],
+            "flags": 0,
+            "guid": "Gg3W.(Q^{g",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c02"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "eres[sound:rec1573779478.mp3]",
+                "you are (permanently)"
+            ],
+            "flags": 0,
+            "guid": "iui(;3E<{V",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c02"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "es[sound:rec1573779561.mp3]",
+                "he, she, or it is (permanently) or you are (formal)"
+            ],
+            "flags": 0,
+            "guid": "NvLjQXqMCG",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c02"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "somos[sound:rec1573779600.mp3]",
+                "we are (permanently)"
+            ],
+            "flags": 0,
+            "guid": "C7NroLZgUE",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c02"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "son[sound:rec1573779611.mp3]",
+                "they are ((permanently) OR y'all are (formal, permanently)"
+            ],
+            "flags": 0,
+            "guid": "g`L%8a~lJU",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c02"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "el rey[sound:rec1573779662.mp3]",
+                "the king"
+            ],
+            "flags": 0,
+            "guid": "Md$b~j0%Rq",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c02"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "trono[sound:rec1573779671.mp3]",
+                "throne"
+            ],
+            "flags": 0,
+            "guid": "k&(fk}6!nU",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c02"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "tres[sound:rec1573780847.mp3]",
+                "three"
+            ],
+            "flags": 0,
+            "guid": "sg+g+n@.D6",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c02"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "cuatro[sound:rec1573780863.mp3]",
+                "four"
+            ],
+            "flags": 0,
+            "guid": "G_o:<yMmY.",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c02"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "una persona[sound:rec1573781114.mp3]",
+                "a person"
+            ],
+            "flags": 0,
+            "guid": "Lm=*8:cZ_(",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c02"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "una sofa[sound:rec1573781134.mp3]",
+                "a couch (also called a sofa)"
+            ],
+            "flags": 0,
+            "guid": "n+|+Ln7))p",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c02"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Americano[sound:rec1573781156.mp3]",
+                "American"
+            ],
+            "flags": 0,
+            "guid": "hO_0/@n3IM",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c02"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Español[sound:rec1573783276.mp3]",
+                "Spanish"
+            ],
+            "flags": 0,
+            "guid": "zVTShH[&yx",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c02"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Frances[sound:rec1573783286.mp3]",
+                "French"
+            ],
+            "flags": 0,
+            "guid": "nv.TI9@R{a",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c02"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ingles[sound:rec1573783299.mp3]",
+                "English"
+            ],
+            "flags": 0,
+            "guid": "tcgLHJ]&7R",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c02"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "casa[sound:rec1573783307.mp3]",
+                "house"
+            ],
+            "flags": 0,
+            "guid": "rrQA)>ts*8",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c02"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "palacio[sound:rec1573783319.mp3]",
+                "palace"
+            ],
+            "flags": 0,
+            "guid": "fL+8`/iuPu",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c02"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "nueva[sound:rec1573783330.mp3]",
+                "new"
+            ],
+            "flags": 0,
+            "guid": "sTqqEB]T*L",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c02"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "vieja[sound:rec1573783337.mp3]",
+                "old"
+            ],
+            "flags": 0,
+            "guid": "sB2]4qFzsG",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c02"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "lo contrario[sound:rec1573783347.mp3]",
+                "the opposite"
+            ],
+            "flags": 0,
+            "guid": "tkj0Lh]R8>",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c02"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "el fin[sound:rec1573783358.mp3]",
+                "the end"
+            ],
+            "flags": 0,
+            "guid": "ru1VF=)N&T",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c02"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "tengo[sound:rec1573783368.mp3]",
+                "I have"
+            ],
+            "flags": 0,
+            "guid": "Jj[wO;.B0,",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "tienes[sound:rec1573783374.mp3]",
+                "you have"
+            ],
+            "flags": 0,
+            "guid": "i(iNzkkk#s",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "tiene[sound:rec1573783783.mp3]",
+                "he, she, or it has OR you (formal) has"
+            ],
+            "flags": 0,
+            "guid": "E+wN**iwIL",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "tenemos[sound:rec1573786704.mp3]",
+                "we have"
+            ],
+            "flags": 0,
+            "guid": "Qe5RVn<PO!",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "teneis[sound:rec1573786727.mp3]",
+                "y'all have"
+            ],
+            "flags": 0,
+            "guid": "Occ7lwBwfo",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "tienen[sound:rec1573786740.mp3]",
+                "they have OR y'all (formal) have"
+            ],
+            "flags": 0,
+            "guid": "K}&pDE_2G1",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "muchacho[sound:rec1573786821.mp3]",
+                "boy [not niño]"
+            ],
+            "flags": 0,
+            "guid": "z/YFLFC%r:",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "muchacha[sound:rec1573786847.mp3]",
+                "girl [not niña]"
+            ],
+            "flags": 0,
+            "guid": "pUaT@Py8HF",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "un maestro[sound:rec1573786867.mp3]",
+                "a teacher"
+            ],
+            "flags": 0,
+            "guid": "pd*{q^eZ0a",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "un discipulo[sound:rec1573786897.mp3]",
+                "a student"
+            ],
+            "flags": 0,
+            "guid": "o8,T7[|qzw",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "una escuela[sound:rec1573786915.mp3]",
+                "a school"
+            ],
+            "flags": 0,
+            "guid": "x}42k&tWm!",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "recibir[sound:rec1573786924.mp3]",
+                "to receive"
+            ],
+            "flags": 0,
+            "guid": "nM:!&/d9K;",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "un profesor[sound:rec1573786936.mp3]",
+                "a profesor"
+            ],
+            "flags": 0,
+            "guid": "G~@<jF9Qvt",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "un banco[sound:rec1573786949.mp3]",
+                "a bench"
+            ],
+            "flags": 0,
+            "guid": "j9_+k}nw0(",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "estoy parado[sound:rec1573786997.mp3]",
+                "I am standing"
+            ],
+            "flags": 0,
+            "guid": "qU~0V&n`]?",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "estoy sentado[sound:rec1573786985.mp3]",
+                "I am sitting"
+            ],
+            "flags": 0,
+            "guid": "PpT&.L:!3#",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "un objecto[sound:rec1573787015.mp3]",
+                "an object"
+            ],
+            "flags": 0,
+            "guid": "rEAxLaUd]H",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "un pupitre[sound:rec1573787024.mp3]",
+                "a desk"
+            ],
+            "flags": 0,
+            "guid": "bbB[Wq_w!D",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "escribir[sound:rec1573787046.mp3]",
+                "to write"
+            ],
+            "flags": 0,
+            "guid": "Ar|r4UaK1)",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "delante[sound:rec1573787054.mp3]",
+                "in front of"
+            ],
+            "flags": 0,
+            "guid": "h^`ElBh^~l",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "una clase[sound:rec1573787064.mp3]",
+                "a class"
+            ],
+            "flags": 0,
+            "guid": "D!l.nv7b<n",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "la tinta[sound:rec1573787078.mp3]",
+                "the ink"
+            ],
+            "flags": 0,
+            "guid": "ntEka:Gw`7",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "un fluido[sound:rec1573787088.mp3]",
+                "a liquid"
+            ],
+            "flags": 0,
+            "guid": "y1yFhf5oM8",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "negro[sound:rec1573787097.mp3]",
+                "black"
+            ],
+            "flags": 0,
+            "guid": "v|=K+4jnT;",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "color[sound:rec1573787105.mp3]",
+                "color"
+            ],
+            "flags": 0,
+            "guid": "q.`a.cE00o",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "rojo[sound:rec1573787187.mp3]",
+                "red"
+            ],
+            "flags": 0,
+            "guid": "eQVvs>2L%T",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "amarillo[sound:rec1573787195.mp3]",
+                "yellow"
+            ],
+            "flags": 0,
+            "guid": "xZJDY?O>v@",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "blanco[sound:rec1573787203.mp3]",
+                "white"
+            ],
+            "flags": 0,
+            "guid": "E/wR>J%eQS",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "señora[sound:rec1573787218.mp3]",
+                "married woman"
+            ],
+            "flags": 0,
+            "guid": "nI>o(&DdTC",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "un niño[sound:rec1573787233.mp3]",
+                "a boy [not muchacho]"
+            ],
+            "flags": 0,
+            "guid": "hplkQr2%[s",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "una niña[sound:rec1573787248.mp3]",
+                "a girl [not muchacha]"
+            ],
+            "flags": 0,
+            "guid": "Euy&am3Ta`",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "una madre[sound:rec1573787263.mp3]",
+                "a mother"
+            ],
+            "flags": 0,
+            "guid": "dj-E-wJ6EO",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "una falda[sound:rec1573787280.mp3]",
+                "the lap (of a person)"
+            ],
+            "flags": 0,
+            "guid": "e!R^F#;2%O",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "grande[sound:rec1573787291.mp3]",
+                "big"
+            ],
+            "flags": 0,
+            "guid": "oORL[ot=.n",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "pequeño[sound:rec1573787300.mp3]",
+                "small"
+            ],
+            "flags": 0,
+            "guid": "H;;wl@$]5X",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "pero[sound:rec1573787308.mp3]",
+                "but"
+            ],
+            "flags": 0,
+            "guid": "MyoDhaH!Wv",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "un brazo[sound:rec1573787329.mp3]",
+                "an arm"
+            ],
+            "flags": 0,
+            "guid": "Kp*.iZ@/rn",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "una mano[sound:rec1573787339.mp3]",
+                "a hand"
+            ],
+            "flags": 0,
+            "guid": "sk;Co/@wxv",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "cuantas[sound:rec1573787350.mp3]",
+                "how many"
+            ],
+            "flags": 0,
+            "guid": "A%)=&{F|hb",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "tambien[sound:rec1573787384.mp3]",
+                "also"
+            ],
+            "flags": 0,
+            "guid": "AOY2e-g1Op",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "cinco[sound:rec1573787393.mp3]",
+                "five"
+            ],
+            "flags": 0,
+            "guid": "HV<)^nMOiD",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "un dedo[sound:rec1573787406.mp3]",
+                "a finger or toe"
+            ],
+            "flags": 0,
+            "guid": "Aj},b4syj.",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "cual[sound:rec1573787417.mp3]",
+                "which ... ?"
+            ],
+            "flags": 0,
+            "guid": "i`=HLR6tWX",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "el dedo pulgar[sound:rec1573787430.mp3]",
+                "the thumb"
+            ],
+            "flags": 0,
+            "guid": "F@/!CyG!Ae",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "medio[sound:rec1573787444.mp3]",
+                "middle"
+            ],
+            "flags": 0,
+            "guid": "EgtktCu?<,",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "entre[sound:rec1573787450.mp3]",
+                "between"
+            ],
+            "flags": 0,
+            "guid": "DQ]JFXCR*`",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ultimo[sound:rec1573787459.mp3]",
+                "last"
+            ],
+            "flags": 0,
+            "guid": "iW?IW}#nvC",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "el mayor[sound:rec1573787472.mp3]",
+                "the bigger one, the older one"
+            ],
+            "flags": 0,
+            "guid": "y<xI>LW9(;",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "el menor[sound:rec1573787489.mp3]",
+                "the smaller one, the younger one"
+            ],
+            "flags": 0,
+            "guid": "Qv{K[@X6}X",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "fuerte[sound:rec1573787507.mp3]",
+                "strong"
+            ],
+            "flags": 0,
+            "guid": "rnCSdfC%LE",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "debil[sound:rec1573787514.mp3]",
+                "weak"
+            ],
+            "flags": 0,
+            "guid": "l)aNv:],[I",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "seis[sound:rec1573787521.mp3]",
+                "six"
+            ],
+            "flags": 0,
+            "guid": "GYB|sOxaEr",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "siete[sound:rec1573787529.mp3]",
+                "seven"
+            ],
+            "flags": 0,
+            "guid": "k1l=?t()H:",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ocho[sound:rec1573788009.mp3]",
+                "eight"
+            ],
+            "flags": 0,
+            "guid": "j,@ykxPt5s",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "nueve[sound:rec1573788016.mp3]",
+                "nine"
+            ],
+            "flags": 0,
+            "guid": "GKA3j:Lpqn",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "diez[sound:rec1573788024.mp3]",
+                "ten"
+            ],
+            "flags": 0,
+            "guid": "eIslYVek_G",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "una pierna[sound:rec1573788048.mp3]",
+                "a leg"
+            ],
+            "flags": 0,
+            "guid": "lDa9Sxoo8,",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "un pie[sound:rec1573788059.mp3]",
+                "a foot"
+            ],
+            "flags": 0,
+            "guid": "LE?fe@i1/J",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "gordo[sound:rec1573788067.mp3]",
+                "fat"
+            ],
+            "flags": 0,
+            "guid": "Q{q.<7ZEVd",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "hablo[sound:rec1573788076.mp3]",
+                "I talk"
+            ],
+            "flags": 0,
+            "guid": "BIarxG,O}Q",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "hablas[sound:rec1573788082.mp3]",
+                "you talk"
+            ],
+            "flags": 0,
+            "guid": "jsVj3vIwcO",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "habla[sound:rec1573788102.mp3]",
+                "he, she, or it talks OR you (formal) talks"
+            ],
+            "flags": 0,
+            "guid": "clbAEbqH=R",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "hablamos[sound:rec1573788120.mp3]",
+                "we talk"
+            ],
+            "flags": 0,
+            "guid": "uE;qtW5m/3",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "hablais[sound:rec1573788128.mp3]",
+                "y'all talk"
+            ],
+            "flags": 0,
+            "guid": "P}q1Gy?.x_",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "hablan[sound:rec1573788142.mp3]",
+                "they talk OR y'all (formal) talk"
+            ],
+            "flags": 0,
+            "guid": "N|2Sz|P*ta",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "un animal[sound:rec1573788164.mp3]",
+                "an animal"
+            ],
+            "flags": 0,
+            "guid": "l&N)biZWKa",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "un gato[sound:rec1573788172.mp3]",
+                "a cat"
+            ],
+            "flags": 0,
+            "guid": "xWw9sd<.sJ",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "una ventana[sound:rec1573788188.mp3]",
+                "a window"
+            ],
+            "flags": 0,
+            "guid": "e(3DB4?[1x",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "una abertura[sound:rec1573788201.mp3]",
+                "an opening"
+            ],
+            "flags": 0,
+            "guid": "DUp>_d[?[k",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "una puerta[sound:rec1573788215.mp3]",
+                "a door"
+            ],
+            "flags": 0,
+            "guid": "PlN4N<%xN@",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "entrar[sound:rec1573788223.mp3]",
+                "enter"
+            ],
+            "flags": 0,
+            "guid": "x^$/xTJ*w{",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "mirar[sound:rec1573788234.mp3]",
+                "to look at"
+            ],
+            "flags": 0,
+            "guid": "OL;]2iQipU",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "un verbo[sound:rec1573788244.mp3]",
+                "a verb"
+            ],
+            "flags": 0,
+            "guid": "p37{n7F+Va",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "explicar[sound:rec1573788253.mp3]",
+                "to explain"
+            ],
+            "flags": 0,
+            "guid": "HMW75;/ALN",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "un ojo[sound:rec1573788264.mp3]",
+                "an eye"
+            ],
+            "flags": 0,
+            "guid": "k-%qsbYS+~",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "todos[sound:rec1573788271.mp3]",
+                "all, everybody"
+            ],
+            "flags": 0,
+            "guid": "tF#P$3xSm;",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "con[sound:rec1573788281.mp3]",
+                "with"
+            ],
+            "flags": 0,
+            "guid": "N5Y;iqt~]?",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "una oveja[sound:rec1573788290.mp3]",
+                "a sheep"
+            ],
+            "flags": 0,
+            "guid": "g)]S8C=?0.",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Aleman[sound:rec1573788299.mp3]",
+                "German"
+            ],
+            "flags": 0,
+            "guid": "jC9H<8UN5s",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "significar[sound:rec1573788312.mp3]",
+                "to mean"
+            ],
+            "flags": 0,
+            "guid": "A!)%%SXz_c",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "comprar[sound:rec1573788326.mp3]",
+                "to buy"
+            ],
+            "flags": 0,
+            "guid": "KhVq0=D-]i",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "obtener[sound:rec1573788338.mp3]",
+                "to obtain, to get"
+            ],
+            "flags": 0,
+            "guid": "eEW)!CHDn[",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "fijar[sound:rec1573788370.mp3]",
+                "to set, to fix"
+            ],
+            "flags": 0,
+            "guid": "m:.fRVWNn,",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "dinero[sound:rec1573788384.mp3]",
+                "money"
+            ],
+            "flags": 0,
+            "guid": "ygWrL:09fJ",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "proxima[sound:rec1573788393.mp3]",
+                "next"
+            ],
+            "flags": 0,
+            "guid": "OduWIQMayE",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "oro[sound:rec1573788405.mp3]",
+                "gold"
+            ],
+            "flags": 0,
+            "guid": "qdvk>C&=@=",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "plata[sound:rec1573788411.mp3]",
+                "silver"
+            ],
+            "flags": 0,
+            "guid": "H`@8.2I0$W",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "cobre[sound:rec1573788430.mp3]",
+                "copper"
+            ],
+            "flags": 0,
+            "guid": "P|>w}OeMhx",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "papel[sound:rec1573788444.mp3]<br />",
+                "paper"
+            ],
+            "flags": 0,
+            "guid": "c_i6lI^=Ry",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "precioso[sound:rec1573788459.mp3]",
+                "precious"
+            ],
+            "flags": 0,
+            "guid": "F?FqQf@FA5",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "raro[sound:rec1573788465.mp3]",
+                "rare"
+            ],
+            "flags": 0,
+            "guid": "k|/eAZ/>Zj",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "metal[sound:rec1573788498.mp3]",
+                "metal"
+            ],
+            "flags": 0,
+            "guid": "H;@cGWk!g.",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "comun[sound:rec1573788508.mp3]",
+                "common"
+            ],
+            "flags": 0,
+            "guid": "O;%[.nMg]I",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "azul[sound:rec1573788515.mp3]",
+                "blue"
+            ],
+            "flags": 0,
+            "guid": "l@u:]eR|iY",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "el cielo[sound:rec1573788524.mp3]",
+                "the sky"
+            ],
+            "flags": 0,
+            "guid": "BW+anIvHI9",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "mucho[sound:rec1573788536.mp3]",
+                "a lot"
+            ],
+            "flags": 0,
+            "guid": "ujJJE~SyQ7",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "materia[sound:rec1573788545.mp3]",
+                "material"
+            ],
+            "flags": 0,
+            "guid": "Q)`!CR5Jc(",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "usar[sound:rec1573788553.mp3]",
+                "to use"
+            ],
+            "flags": 0,
+            "guid": "MFxi>:!Ns;",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "escribir[sound:rec1573788560.mp3]",
+                "to write"
+            ],
+            "flags": 0,
+            "guid": "J%w0T+5V33",
+            "note_model_uuid": "e2ac978a-0a1c-11ea-a6e4-8c859041a86d",
+            "tags": [
+                "b01c05"
             ]
         }
     ]
